@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IKKUHUKKI
 - 👀 I’m interested in Physics and all sorts of coding
-- 🌱 I’m currently learning C++ and Web Development, increasing my understanding of Python
+- 🌱 I’m currently learning C++ and Game Engine Developement
 - 💞️ I’m looking to collaborate on fun small projects
 
 <!---
